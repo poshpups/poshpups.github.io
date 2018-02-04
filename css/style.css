@@ -1,0 +1,36 @@
+body{
+
+	background-image:url(https://upload.wikimedia.org/wikipedia/commons/1/12/Black_Paw.svg); 
+	background-image: opacity: 0.1;
+	height: 400px; 
+	background-position: 100px 200px; right-bottom; 
+	background-repeat: no-repeat;
+	filter: alpha(opacity=50);
+
+
+
+}
+.smallimage{width:200px; height:200px;}
+.w3-circle{border-radius: 100px;}
+
+.header{
+	background-color: mistyrose;
+	height:125px;
+
+
+}
+h1{
+	text-align: center; 
+	font-family:"Georgia";
+	font-weight: 200px;
+	font-size: 125px;
+}
+
+
+.topnav {
+    background-color: slategray;
+    color: black;
+}
+
+
+
